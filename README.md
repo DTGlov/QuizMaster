@@ -1,2 +1,2 @@
 # QuizMaster
-A simple Quiz
+A simple Quiz with with 10 General Knowledge questions
